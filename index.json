@@ -1,0 +1,117 @@
+{
+    "plugins": [
+        {
+            "id": "language-de",
+            "version": "3.0.0.0",
+            "plugin-version": "1.0.0",
+            "languageCode": "de",
+            "pluginName": "Deutsch",
+            "fallbackLanguage": "en",
+            "name": {
+                "zh-CN": "德语语言包",
+                "zh-TW": "德語語言包",
+                "en": "German Language Pack",
+                "de": "Deutsches Sprachpaket"
+            },
+            "introduction": {
+                "zh-CN": "完整的德语翻译支持",
+                "zh-TW": "完整的德語翻譯支持",
+                "en": "Complete German translation support",
+                "de": "Vollständige deutsche Übersetzungsunterstützung"
+            },
+            "type": "language",
+            "author": {
+                "zh-CN": "官方",
+                "zh-TW": "官方",
+                "en": "Official"
+            },
+            "downloadUrl": "https://proxy.wenzixi.top/https://raw.githubusercontent.com/chan-air/useful-tools-plugins/master/plugins/language-de.zip",
+            "size": "3.42 KB",
+            "releaseDate": "2024-01-01"
+        },
+        {
+            "id": "language-fr",
+            "version": "3.0.0.0",
+            "plugin-version": "1.0.0",
+            "languageCode": "fr",
+            "pluginName": "Français",
+            "fallbackLanguage": "en",
+            "name": {
+                "zh-CN": "法语语言包",
+                "zh-TW": "法語語言包",
+                "en": "French Language Pack",
+                "fr": "Pack de langue française"
+            },
+            "introduction": {
+                "zh-CN": "完整的法语翻译支持",
+                "zh-TW": "完整的法語翻譯支持",
+                "en": "Complete French translation support",
+                "fr": "Prise en charge complète de la traduction française"
+            },
+            "type": "language",
+            "author": {
+                "zh-CN": "官方",
+                "zh-TW": "官方",
+                "en": "Official"
+            },
+            "downloadUrl": "https://proxy.wenzixi.top/https://raw.githubusercontent.com/chan-air/useful-tools-plugins/master/plugins/language-fr.zip",
+            "size": "3.35 KB",
+            "releaseDate": "2024-01-01"
+        },
+        {
+            "id": "theme-midnight",
+            "version": "3.0.0.0",
+            "plugin-version": "1.0.0",
+            "name": {
+                "zh-CN": "午夜黑主题",
+                "zh-TW": "午夜黑主題",
+                "en": "Midnight Black"
+            },
+            "introduction": {
+                "zh-CN": "黑色和深灰色深色主题，白色文字",
+                "zh-TW": "黑色和深灰色深色主題，白色文字",
+                "en": "Dark theme with black and dark gray, white text"
+            },
+            "type": "theme",
+            "author": {
+                "zh-CN": "官方",
+                "zh-TW": "官方",
+                "en": "Official"
+            },
+            "downloadUrl": "https://proxy.wenzixi.top/https://raw.githubusercontent.com/chan-air/useful-tools-plugins/master/plugins/theme-midnight.zip",
+            "size": "0.74 KB",
+            "releaseDate": "2024-01-01"
+        },
+        {
+            "id": "widget-weather",
+            "version": "3.0.0.0",
+            "plugin-version": "1.0.0",
+            "name": {
+                "zh-CN": "天气小组件",
+                "zh-TW": "天氣小組件",
+                "en": "Weather Widget"
+            },
+            "introduction": {
+                "zh-CN": "实时显示天气信息的小组件",
+                "zh-TW": "實時顯示天氣信息的小組件",
+                "en": "Widget that displays real-time weather information"
+            },
+            "type": "widget",
+            "author": {
+                "zh-CN": "官方",
+                "zh-TW": "官方",
+                "en": "Official"
+            },
+            "downloadUrl": "https://proxy.wenzixi.top/https://raw.githubusercontent.com/chan-air/useful-tools-plugins/master/plugins/widget-weather.zip",
+            "size": "1.77 KB",
+            "releaseDate": "2024-01-01"
+        }
+    ],
+    "metadata": {
+        "totalPlugins": 4,
+        "lastUpdated": "2024-01-01T00:00:00Z",
+        "apiVersion": "1.0.0",
+        "source": "GitHub",
+        "proxyUrl": "https://proxy.wenzixi.top"
+    }
+}
